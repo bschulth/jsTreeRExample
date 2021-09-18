@@ -39,3 +39,7 @@ jsTreeRExample::ajax_example_01()
 
 - https://github.com/bschulth/jsTreeRExample/blob/main/R/ajax_example_01.R
 
+# Credits:
+
+- Note this leverages AJAX ideas from Dean Attali:
+   - https://github.com/daattali/advanced-shiny/tree/master/api-ajax
