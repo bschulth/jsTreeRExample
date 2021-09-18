@@ -37,5 +37,5 @@ jsTreeRExample::ajax_example_01()
 
 # Source:
 
-- jsTreeRExample
+- https://github.com/bschulth/jsTreeRExample/blob/main/R/ajax_example_01.R
 
