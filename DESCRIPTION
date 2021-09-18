@@ -1,0 +1,26 @@
+Package: jsTreeRExample
+Type: Package
+Title: Examples for jsTreeR
+Description: Examples for jsTreeR.
+Version: 0.0.1.20210917.0811
+Authors@R: c(
+        person("Brian", "Schultheiss", email = "bschulth@amgen.com",   role = c("prg","cre"))
+    )
+Maintainer: Brian Schultheiss <bschulth@amgen.com>
+License: MIT + file LICENSE
+Depends: R (>= 3.4)
+Encoding: UTF-8
+LazyData: true
+KeepSource: true
+Imports: 
+    fs,
+    htmlwidgets,
+    jsTreeR,
+    shiny,
+    shinyjs,
+    tools
+Suggests:
+    testthat
+VignetteBuilder: knitr
+RoxygenNote: 7.1.2
+NeedsCompilation: no
